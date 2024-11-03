@@ -1,12 +1,4 @@
-/*
- * Theme Name: 
- * Theme URI: 
- * Author: Milan Savov, Nikola Kostov
- * Author URI/Mail: milan.savov@gmail.com, nikolakostov1991@gmail.com
- * Version: 1.0
- * */
-
- /* TABLE OF CONTENT 
+/* TABLE OF CONTENT 
 *
 * - CUSTOM RESETS
     - Buttons
@@ -117,7 +109,7 @@ p + p {
 button.btn:hover,
 .btn:focus,
 button.btn:focus {
-    background-color: #26272d;
+    background-color: #040D12;
     color: #fff;
 }
 
